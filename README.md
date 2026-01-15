@@ -2,7 +2,7 @@
 - 👀 I’m interested in photography and traveling
 - 🌱 I’m currently learning Wordpress
 - 💞️ I’m looking to collaborate on the front-end of websites
-- 📫 How to reach me through my email: Isabella.watson4702@gmail.com or Instagram: @4plususprotography
+- 📫 How to reach me through my email: 4plususdesigns@gmail.com or Instagram: @4plususphotography
 - ⚡ Fun fact: ...
 
 <!---
