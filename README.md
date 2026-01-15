@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Izzywtsn
 - 👀 I’m interested in photography and traveling
 - 🌱 I’m currently learning Wordpress
-- 💞️ I’m looking to collaborate on the front-ends of websites
+- 💞️ I’m looking to collaborate on the front-end of websites
 - 📫 How to reach me through my email: Isabella.watson4702@gmail.com or Instagram: @4plususprotography
 - ⚡ Fun fact: ...
 
